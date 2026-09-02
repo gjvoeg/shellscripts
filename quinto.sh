@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-PIDFILE="/tmp/caixa.pid"
+PIDFILE="/tmp/caixaverso.pid"
 
 function iniciar()
 {
